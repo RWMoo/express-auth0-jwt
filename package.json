@@ -1,0 +1,27 @@
+{
+  "name": "express-auth0-jwt",
+  "version": "1.0.0",
+  "description": "An example of using Auth0 for secure login, generating JWT access/refresh tokens, and a basic REST API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RWMoo/express-auth0-jwt.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "auth0",
+    "jwt",
+    "rest",
+    "api"
+  ],
+  "author": "Rob Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RWMoo/express-auth0-jwt/issues"
+  },
+  "homepage": "https://github.com/RWMoo/express-auth0-jwt#readme"
+}
